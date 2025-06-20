@@ -16,4 +16,4 @@ Follow these steps to set up and run the project:
 
 Copy the Link from your terminal, and paste it in your brower.
 
-Play with it. Enjoy!
+Play with it. Enjoy! 🎇🎇🎇
