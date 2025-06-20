@@ -9,10 +9,10 @@ Follow these steps to set up and run the project:
    ```bash
    pip3 install -r requirements.txt
 
-2. **Run the Interface*
+2. **Run the Interface**
    ```bash
    python3 interface.py
 
-3. **Copy the Link from your terminal, and paste it **
+3. *Copy the Link from your terminal, and paste it *
 
 Play with it. Enjoy!
