@@ -14,6 +14,6 @@ Follow these steps to set up and run the project:
    ```bash
    python3 interface.py
 
-Copy the Link from your terminal, and paste it in your brower.
+Copy the Link from your terminal, and paste it in your brower. Upload an image and ask a question about it, you will get the answer and audio.
 
 Play with it. Enjoy! 🎇🎇🎇
