@@ -12,7 +12,7 @@ def main():
     config=get_config()
     model_name=config['model_name']
     model = Qwen2_5_VLForConditionalGeneration.from_pretrained(model_name, torch_dtype=torch.bfloat16, device_map="cuda")
-    tts_output=pipeline("text-to-speech", model="suno/bark-small")
+    tts_pipeline=pipeline("text-to-speech", model="suno/bark-small")
     processor = AutoProcessor.from_pretrained(model_name,use_fast=True)
 
     def inference(image,question):
